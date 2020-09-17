@@ -1,2 +1,3 @@
 Pluto is a planet.
 No, Pluto is a dwarf.
+Pluto is a dog.
