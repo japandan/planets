@@ -1,5 +1,6 @@
 mars is cold and dry but everything is my favorite color.
 I have added this line to the first file
 added a third line
-
+We should consider using Venus as a base.  Elon approved.
 here is a new line
+This is the last line of the file
